@@ -1,0 +1,15 @@
+body{
+	color:blue;
+	font-size:40px;
+}
+div{
+	background-color:yellow;
+	/*width:200px;*/
+}
+div#divtwo{
+	background-color:green;
+	color:white;
+}
+circle{
+	fill:red;
+}
