@@ -22,7 +22,12 @@
            .attr('width',width)
            .attr('height',height);
 
+           //d3.csv('name of file','stuff to do with data')
 
+           d3.csv('data.csv',function,(error,data){
+            console.log(data);
+
+           })
          </script>
   </body>
 

@@ -1,15 +1,7 @@
 body{
-	color:blue;
-	font-size:40px;
+	color:black;
+	front-size:18px;
 }
-div{
-	background-color:red;
-	/*width:200px;*/
-}
-div#divtwo{
-	background-color:red;
-	color:white;
-}
-circle{
-	fill:red;
+svg{
+	border:1px solid grey;
 }
